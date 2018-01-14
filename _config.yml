@@ -10,17 +10,17 @@ avatar: https://www.nathangrubb.io/cat-pilot.jpeg
 footer-links:
   dribbble:
   email:
-  facebook:
+  facebook: ngrubb2
   flickr:
-  github: barryclark/jekyll-now
+  github: silent-snowman/silent-snowman.github.io
   instagram:
-  linkedin:
+  linkedin: nathangrubb
   pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  twitter: silent_snowman
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
-  googleplus: # anything in your profile username that comes after plus.google.com/
+  googleplus: u/2/101913867428624409865
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
