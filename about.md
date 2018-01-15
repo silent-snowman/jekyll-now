@@ -9,12 +9,24 @@ permalink: /about/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next best thing about software is that once you have created and perfected your software to handle all the edges cases you can imagine, you can deploy it (sometimes almost instantly) to a massive number of people hopefully optimizing a part of their lives so they can focus on more meaningful aspects of their lives like spending time with family. <br />
 
 ### Areas Of Interest
-- Security (Human Psychology, Human Sociology, Symmetric and Asymmetric Cryptography)
-- Wireless Technologies (LTE/WiFi/BLE/BTC)
-- Data Modeling and Usage Patterns
+- Security
+  - Symmetric and Asymmetric Cryptography
+  - Human Psychology
+  - Human Sociology
+  - Redundancy
+- Wireless Technologies
+  - Cellular (LTE/GSM/CDMA)
+  - Wireless Local Area Network (WiFi)
+  - Bluetooth Low Energy (BLE)
+  - Bluetooth Classic (BTC)
+- Data Modeling
+  - Usage Patterns
+- Media Encoding Technologies
+- File Container Formats
 - Minimalist Design
 - Automation
 
----
-**Web Resume**: [nathangrubb.io](https://www.nathangrubb.io) <br/>
-**Email**: [email@domain.com](mailto:email@domain.com)
+### Contact
+
+Web Resume: [nathangrubb.io](https://www.nathangrubb.io) <br/>
+Email: [email@domain.com](mailto:email@domain.com)
