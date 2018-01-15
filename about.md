@@ -12,7 +12,7 @@ permalink: /about/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The next best thing about software is that once you have created and perfected your software to handle all the edges cases you can imagine, you can deploy it (sometimes almost instantly) to a massive number of people hopefully optimizing a part of their lives so they can focus on more meaningful aspects of their lives like spending time with family. <br />
 
 ### Other things I love
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy pretty much every aspect of making things everything from cooking to construction. My favourite thing is cooking dishes from places all over the world. I prefer trying as close to the traditional dish before I attempt to make it myself to tell if the recipe I found it actually accurate or not. Some of my favourite dishes to both make and eat are:
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy pretty much every aspect of making things everything from cooking to construction. My favourite thing is cooking dishes from places all over the world. I'm a huge proponent of multiculturalism and inclusivity and food is something that all people share in common. I find it very intriguing how you can combine a few ingredients in many different ways to create very different outcomes. Before attempting to make a new dish at home, I prefer trying as close to the traditional dish (ideally going to the location where the dish originated). Some of my favourite dishes to both make and eat are:
 - [Gumbo (African America)](https://en.wikipedia.org/wiki/Gumbo)
 - [Japenese Curry](https://en.wikipedia.org/wiki/Japanese_curry)
 - [Jollof rice (West African)](https://en.wikipedia.org/wiki/Jollof_rice)
