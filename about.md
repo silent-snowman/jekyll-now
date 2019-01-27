@@ -21,7 +21,7 @@ permalink: /about/
 - [Korean Fried Chicken (South Korean)](http://crazykoreancooking.com/recipe/korean-fried-chicken)
 - [Oxtail Stew (African American)](https://www.foodnetwork.com/recipes/sunny-anderson/oxtail-stew-recipe-1940839)
 - [Pollo a la Brasa (Peruvian)](https://en.wikipedia.org/wiki/Pollo_a_la_Brasa)
-- [Ramen (Japanense/Chinese](https://www.japanesecooking101.com/ramen-recipe)
+- [Ramen (Japanense/Chinese)](https://www.japanesecooking101.com/ramen-recipe)
 - [Spaghetti with meatballs (American)](https://en.wikipedia.org/wiki/Spaghetti_with_meatballs)
 
 ### Favourite Ingredients
