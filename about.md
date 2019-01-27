@@ -14,13 +14,12 @@ permalink: /about/
 ### Other things I love
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I enjoy pretty much every aspect of making things everything from cooking to construction. My favourite thing is cooking dishes from places all over the world. I'm a huge proponent of multiculturalism and inclusivity; food just happens to be something that we share in common. I find it very intriguing how you can combine a few ingredients in many different ways to create very different outcomes. Before attempting to make a new dish at home, I prefer trying as close to the traditional dish (ideally going to the location where the dish originated, but I'm not rich so that's generally not possible). Some of my favourite dishes to both make and eat are:
 - [Gumbo (African America)](https://en.wikipedia.org/wiki/Gumbo)
-- [Japenese Curry](https://en.wikipedia.org/wiki/Japanese_curry)
+- [Katsu Curry](https://www.japanesecooking101.com/katsu-curry-recipe)
 - [Jollof rice (West African)](https://en.wikipedia.org/wiki/Jollof_rice)
-- [Korean Fried Chicken](https://en.wikipedia.org/wiki/Korean_fried_chicken)
-- [Oxtail Stew (African American)](https://en.wikipedia.org/wiki/Oxtail_stew)
+- [Korean Fried Chicken](http://crazykoreancooking.com/recipe/korean-fried-chicken)
+- [Oxtail Stew (African American)](https://www.foodnetwork.com/recipes/sunny-anderson/oxtail-stew-recipe-1940839)
 - [Pollo a la Brasa (Peruvian)](https://en.wikipedia.org/wiki/Pollo_a_la_Brasa)
-- [Ramen (Japanese/Chinese)](https://en.wikipedia.org/wiki/Ramen)
-- [Tonkatsu (Japanese)](https://en.wikipedia.org/wiki/Tonkatsu)
+- [Ramen](https://www.japanesecooking101.com/ramen-recipe)
 - [Spaghetti with meatballs (American)](https://en.wikipedia.org/wiki/Spaghetti_with_meatballs)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Other than making things, I also enjoy the occasional adrenaline rush and adventure from snowboarding, cycling, hiking, white water rafting, paragliding, surfing, mountain biking, and motorcycling (if you consider that a sport).
